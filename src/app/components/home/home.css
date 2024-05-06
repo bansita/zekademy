@@ -1,0 +1,24 @@
+/* .container {
+  display: block;
+} */
+.home1 {
+  display: block;
+  background-color: rgb(197, 221, 224);
+}
+.home {
+  margin-left: 85vw;
+  /* display: flex; */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.btn1 {
+  width: 20vw;
+  /* margin-left: 73vw; */
+  background-color: rgb(20, 21, 80);
+  color: rgb(255, 255, 255);
+  padding: 2px;
+  width: auto;
+  border-radius: 10px;
+  /* right: 0; */
+}
